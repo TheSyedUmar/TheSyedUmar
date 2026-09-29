@@ -1,9 +1,9 @@
 <!-- ===================== HEADER BANNER (light/dark) ===================== -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=220&section=header&text=Syed%20Umar&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20Robotics&descAlignY=58&descSize=20">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=EF93C4&height=220&section=header&text=Syed%20Umar&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20Robotics&descAlignY=58&descSize=20">
-    <img alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&color=EF93C4&height=220&section=header&text=Syed%20Umar&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20Robotics&descAlignY=58&descSize=20" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=03045E&height=220&section=header&text=Syed%20Umar&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20Robotics&descAlignY=58&descSize=20">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0077B6&height=220&section=header&text=Syed%20Umar&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20Robotics&descAlignY=58&descSize=20">
+    <img alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0077B6&height=220&section=header&text=Syed%20Umar&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20Robotics&descAlignY=58&descSize=20" width="100%">
   </picture>
 </div>
 
@@ -13,21 +13,21 @@
 <!-- ===================== TYPING SVG ===================== -->
 <p align="center">
   <a href="https://github.com/TheSyedUmar">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Embedded+Systems+%26+IoT+Engineer;Raspberry+Pi+%7C+Arduino+%7C+Python;Building+things+that+sense+and+respond;Open+to+Embedded+%2F+IoT+roles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Embedded+Systems+%26+IoT+Engineer;Raspberry+Pi+%7C+Arduino+%7C+Python;Building+things+that+sense+and+respond;Open+to+Embedded+%2F+IoT+roles" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- ===================== BADGES ===================== -->
 <p align="center">
-  <img src="https://img.shields.io/github/followers/TheSyedUmar?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a&color=EF93C4" alt="Followers">
-  <img src="https://img.shields.io/github/stars/TheSyedUmar/smart-parenting-care-robot?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a&color=F8BBD0&label=Robot%20Stars" alt="Stars">
-  <img src="https://komarev.com/ghpvc/?username=TheSyedUmar&style=for-the-badge&color=FF69B4&labelColor=1a1a1a&label=Profile+Views" alt="Views">
+  <img src="https://img.shields.io/github/followers/TheSyedUmar?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1B2A&color=0077B6" alt="Followers">
+  <img src="https://img.shields.io/github/stars/TheSyedUmar/smart-parenting-care-robot?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1B2A&color=00B4D8&label=Robot%20Stars" alt="Stars">
+  <img src="https://komarev.com/ghpvc/?username=TheSyedUmar&style=for-the-badge&color=0096C7&labelColor=0D1B2A&label=Profile+Views" alt="Views">
 </p>
 
 <br>
 
 <!-- ===================== ABOUT ME (65 / 35 table) ===================== -->
-<h2 align="center">🌸 About Me</h2>
+<h2 align="center">⚡ About Me</h2>
 
 <table align="center" width="100%">
   <tr>
@@ -80,13 +80,13 @@
       <h3 align="center">🤖 Smart Parenting Care Robot</h3>
       <p>Raspberry Pi robot that monitors a child's temperature, heart rate and motion (fall detection), streams webcam frames, and sends real-time alerts to a caregiver via Telegram.</p>
       <p><code>Python</code> · <code>Raspberry Pi 3 B+</code> · <code>ADXL345</code> · <code>DS18B20</code> · <code>Telegram Bot</code></p>
-      <p align="center"><a href="https://github.com/TheSyedUmar/smart-parenting-care-robot"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-EF93C4?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a></p>
+      <p align="center"><a href="https://github.com/TheSyedUmar/smart-parenting-care-robot"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-0077B6?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🌬️ Mini Windmill for Smart Traffic Signals</h3>
       <p>A wind turbine charges a battery that powers an Arduino-controlled RGB LED traffic signal cycling through red, yellow and green. Built as a team of 4 for about ₹1,338.</p>
       <p><code>Arduino Uno</code> · <code>Embedded C</code> · <code>Renewable Energy</code></p>
-      <p align="center"><a href="https://github.com/TheSyedUmar/mini-windmill-power-generation"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-F8BBD0?style=for-the-badge&logo=github&logoColor=black" alt="Repo"></a></p>
+      <p align="center"><a href="https://github.com/TheSyedUmar/mini-windmill-power-generation"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-00B4D8?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a></p>
     </td>
   </tr>
   <tr>
@@ -94,7 +94,7 @@
       <h3 align="center">🗄️ Multi-Source Job Data ETL Pipeline</h3>
       <p align="center">An ETL/ELT pipeline that pulls job data from multiple sources into a single queryable store.</p>
       <p align="center"><code>Python</code> · <code>AWS S3</code> · <code>FastAPI</code> · <code>SQLite</code></p>
-      <p align="center"><a href="https://github.com/TheSyedUmar/multi-source-job-data-etl-pipeline"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a></p>
+      <p align="center"><a href="https://github.com/TheSyedUmar/multi-source-job-data-etl-pipeline"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-03045E?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a></p>
     </td>
   </tr>
 </table>
@@ -105,11 +105,11 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TheSyedUmar&theme=transparent&hide_border=true&ring=FF69B4&fire=EF93C4&currStreakNum=F8BBD0&sideNums=F8BBD0&currStreakLabel=FF69B4&sideLabels=EF93C4&dates=F8BBD0&stroke=EF93C4" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=TheSyedUmar&theme=transparent&hide_border=true&ring=00B4D8&fire=0096C7&currStreakNum=90E0EF&sideNums=90E0EF&currStreakLabel=00B4D8&sideLabels=0096C7&dates=90E0EF&stroke=0077B6" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheSyedUmar&bg_color=0D1117&color=F8BBD0&line=FF69B4&point=EF93C4&area=true&area_color=FF69B4&title_color=EF93C4&hide_border=true" alt="Activity Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheSyedUmar&bg_color=0D1117&color=90E0EF&line=00B4D8&point=0077B6&area=true&area_color=00B4D8&title_color=00B4D8&hide_border=true" alt="Activity Graph" width="95%" />
 </p>
 
 <br>
@@ -164,14 +164,14 @@
 <h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/syedumar21"><img src="https://img.shields.io/badge/LinkedIn-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:syedumar.4797@gmail.com"><img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/TheSyedUmar"><img src="https://img.shields.io/badge/GitHub-F8BBD0?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/syedumar21"><img src="https://img.shields.io/badge/LinkedIn-0077B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:syedumar.4797@gmail.com"><img src="https://img.shields.io/badge/Email-00B4D8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/TheSyedUmar"><img src="https://img.shields.io/badge/GitHub-03045E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <!-- OPTIONAL: uncomment and fill in only the ones you actually use
-  <a href="https://x.com/[YOUR_X_HANDLE]"><img src="https://img.shields.io/badge/X-EF93C4?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://instagram.com/[YOUR_INSTAGRAM]"><img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://tiktok.com/@[YOUR_TIKTOK]"><img src="https://img.shields.io/badge/TikTok-F8BBD0?style=for-the-badge&logo=tiktok&logoColor=black" alt="TikTok"></a>
-  <a href="https://youtube.com/@[YOUR_YOUTUBE]"><img src="https://img.shields.io/badge/YouTube-EF93C4?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://x.com/[YOUR_X_HANDLE]"><img src="https://img.shields.io/badge/X-0077B6?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://instagram.com/[YOUR_INSTAGRAM]"><img src="https://img.shields.io/badge/Instagram-00B4D8?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://tiktok.com/@[YOUR_TIKTOK]"><img src="https://img.shields.io/badge/TikTok-03045E?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
+  <a href="https://youtube.com/@[YOUR_YOUTUBE]"><img src="https://img.shields.io/badge/YouTube-0077B6?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
   -->
 </p>
 
@@ -180,8 +180,8 @@
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=FFFFFF&fontAlignY=68">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=EF93C4&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=FFFFFF&fontAlignY=68">
-    <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=EF93C4&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=FFFFFF&fontAlignY=68" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=03045E&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=FFFFFF&fontAlignY=68">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0077B6&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=FFFFFF&fontAlignY=68">
+    <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0077B6&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=FFFFFF&fontAlignY=68" width="100%">
   </picture>
 </div>
