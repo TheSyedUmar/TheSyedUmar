@@ -1,9 +1,9 @@
 <!-- ===================== HEADER BANNER (light/dark) ===================== -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=03045E&height=220&section=header&text=Syed%20Umar&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20Robotics&descAlignY=58&descSize=20">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0077B6&height=220&section=header&text=Syed%20Umar&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20Robotics&descAlignY=58&descSize=20">
-    <img alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0077B6&height=220&section=header&text=Syed%20Umar&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20Robotics&descAlignY=58&descSize=20" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=03045E&height=220&section=header&text=Syed%20Umar&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20AI%20Testing&descAlignY=58&descSize=20">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0077B6&height=220&section=header&text=Syed%20Umar&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20AI%20Testing&descAlignY=58&descSize=20">
+    <img alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0077B6&height=220&section=header&text=Syed%20Umar&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20AI%20Testing&descAlignY=58&descSize=20" width="100%">
   </picture>
 </div>
 
@@ -13,7 +13,7 @@
 <!-- ===================== TYPING SVG ===================== -->
 <p align="center">
   <a href="https://github.com/TheSyedUmar">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Embedded+Systems+%26+IoT+Engineer;Raspberry+Pi+%7C+Arduino+%7C+Python;Building+things+that+sense+and+respond;Open+to+Embedded+%2F+IoT+roles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Embedded+Systems+%26+IoT+Engineer;GenAI+Quality+%26+AI+Testing;Raspberry+Pi+%7C+Arduino+%7C+Python;Building+things+that+sense+and+respond" alt="Typing SVG" />
   </a>
 </p>
 
@@ -40,7 +40,8 @@
         I like building systems that connect hardware and software:
         <b>sensors, microcontrollers, motor control and real-time alerts</b>.
         My projects run on <b>Raspberry Pi</b> and <b>Arduino</b>, with
-        <b>Python</b> and <b>Embedded C</b> tying it all together.
+        <b>Python</b> and <b>Embedded C</b> tying it all together. Lately I've been
+        applying the same testing mindset to <b>GenAI applications</b>.
       </p>
       <p><b>💡 What I work with</b></p>
       <ul>
@@ -49,8 +50,9 @@
         <li>📡 Real-time telemetry &amp; Telegram bot alerts</li>
         <li>🐧 Linux on Raspberry Pi</li>
         <li>🗄️ Data pipelines with Python (ETL)</li>
+        <li>🛡️ LLM testing: prompt injection, LLM-as-judge evals, CI quality gates</li>
       </ul>
-      <p><b>🎯 Looking for:</b> Embedded / IoT / Robotics roles</p>
+      <p><b>🎯 Looking for:</b> Embedded / IoT / AI Testing roles</p>
     </td>
     <td width="35%" align="center" valign="middle">
       <img src="https://avatars.githubusercontent.com/u/263504354?v=4" alt="Syed Umar" width="200" style="border-radius:50%;">
@@ -65,8 +67,16 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,arduino,raspberrypi,linux,git,github,fastapi,sqlite,aws,vscode&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,c,arduino,raspberrypi,linux,git,github,githubactions,fastapi,sqlite,aws,azure,vscode&theme=dark" alt="Tech Stack" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTest-0D1B2A?style=for-the-badge" alt="PyTest">
+  <img src="https://img.shields.io/badge/Playwright-0D1B2A?style=for-the-badge" alt="Playwright">
+  <img src="https://img.shields.io/badge/Selenium-0D1B2A?style=for-the-badge" alt="Selenium">
+  <img src="https://img.shields.io/badge/MLflow-0D1B2A?style=for-the-badge" alt="MLflow">
+  <img src="https://img.shields.io/badge/OpenAI_SDK-0D1B2A?style=for-the-badge" alt="OpenAI SDK">
 </p>
 
 <br>
@@ -75,6 +85,14 @@
 <h2 align="center">🚀 Featured Projects</h2>
 
 <table align="center" width="100%">
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">🛡️ GenAI Guardrail &amp; Validation Suite</h3>
+      <p align="center">An automated safety and quality testing framework for RAG chatbots. It attacks the bot with 10 prompt-injection techniques, grades answers for hallucinations with an LLM judge, validates the API contract, load-tests it, and drives the UI with Playwright and Selenium. The accuracy eval caught two real bugs (83% → 100% after root-cause fixes), and a model comparison showed the output guardrail blocking leaks a smaller model let through.</p>
+      <p align="center"><code>Python</code> · <code>PyTest</code> · <code>Playwright</code> · <code>Selenium</code> · <code>MLflow</code> · <code>OpenAI SDK</code> · <code>GitHub Actions</code> · <code>Azure DevOps</code></p>
+      <p align="center"><a href="https://github.com/TheSyedUmar/genai-guardrail-suite"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-0096C7?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a></p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🤖 Smart Parenting Care Robot</h3>
